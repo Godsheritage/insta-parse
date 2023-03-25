@@ -56,7 +56,7 @@ class SignUpViewController: UIViewController {
                 self?.showAlert(description: error.localizedDescription)
             }
         }
-5
+
     }
 
     private func showAlert(description: String?) {
